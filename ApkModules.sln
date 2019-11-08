@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arscTool", "arscTool\arscTool.vcxproj", "{697425BA-F8F8-4BC0-93BB-C447FF4D430F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dexTool", "dexTool\dexTool.vcxproj", "{CF37B222-EB62-4453-9D9F-16DE19B7F817}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ElfTool", "ElfTool\ElfTool.vcxproj", "{0FCFFC37-F1DC-45A9-A579-DBAA7682909C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xmlTool", "xmlTool\xmlTool.vcxproj", "{88445555-3A2F-4A8C-BDBE-06C78470A309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697425BA-F8F8-4BC0-93BB-C447FF4D430F}.Debug|x86.ActiveCfg = Debug|Win32
+		{697425BA-F8F8-4BC0-93BB-C447FF4D430F}.Debug|x86.Build.0 = Debug|Win32
+		{697425BA-F8F8-4BC0-93BB-C447FF4D430F}.Release|x86.ActiveCfg = Release|Win32
+		{697425BA-F8F8-4BC0-93BB-C447FF4D430F}.Release|x86.Build.0 = Release|Win32
+		{CF37B222-EB62-4453-9D9F-16DE19B7F817}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF37B222-EB62-4453-9D9F-16DE19B7F817}.Debug|x86.Build.0 = Debug|Win32
+		{CF37B222-EB62-4453-9D9F-16DE19B7F817}.Release|x86.ActiveCfg = Release|Win32
+		{CF37B222-EB62-4453-9D9F-16DE19B7F817}.Release|x86.Build.0 = Release|Win32
+		{0FCFFC37-F1DC-45A9-A579-DBAA7682909C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FCFFC37-F1DC-45A9-A579-DBAA7682909C}.Debug|x86.Build.0 = Debug|Win32
+		{0FCFFC37-F1DC-45A9-A579-DBAA7682909C}.Release|x86.ActiveCfg = Release|Win32
+		{0FCFFC37-F1DC-45A9-A579-DBAA7682909C}.Release|x86.Build.0 = Release|Win32
+		{88445555-3A2F-4A8C-BDBE-06C78470A309}.Debug|x86.ActiveCfg = Debug|Win32
+		{88445555-3A2F-4A8C-BDBE-06C78470A309}.Debug|x86.Build.0 = Debug|Win32
+		{88445555-3A2F-4A8C-BDBE-06C78470A309}.Release|x86.ActiveCfg = Release|Win32
+		{88445555-3A2F-4A8C-BDBE-06C78470A309}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
